@@ -9,6 +9,8 @@ Collection of Codes used for Kaggle Competitions/Datasets
 
 ## Facial-Key-Detection
 
+PyTorch ResNet50
+
 Present Score: 4.33101
 
 ## Brain Tumor MRI
