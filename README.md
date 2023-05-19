@@ -29,3 +29,9 @@ Exploratory Data Analysis
 
 Model Work in Progress
 
+## Mayo Clinic - STRIP AI
+
+TensorFlow
+
+69 % Classification Accuracy
+
